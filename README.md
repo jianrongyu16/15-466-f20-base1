@@ -17,7 +17,7 @@ SpriteCnk.hpp/cpp. This is the asset loader and is called in PlayMode.cpp. The c
 
 How To Play:
 Basic directional keys to control your character. Stepping on fire means game over immediately. Be cautious, make sure you don't step on fire and at the same time run as fast as possible.
-The four borders are the best path because they have at most one fire and sometimes no fire but obviously once there's fire in the way you gotta change direction.
+The four borders are the best path because they have at most one fire and sometimes no fire but obviously once there's fire in the way you gotta change direction. You can't go across the map by going down from the edge either.
 The game is about how many trails the player left so going back and forth would not increase score.
 
 Sources: All created by myself.
