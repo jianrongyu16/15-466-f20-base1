@@ -73,6 +73,8 @@ if $(OS) = NT { #Windows
 GAME_NAMES =
 	PlayMode
 	PPU466
+	SpriteCnk
+	data_path
 	main
 	load_save_png
 	gl_compile_program
@@ -81,8 +83,16 @@ GAME_NAMES =
 	Load
 	;
 
+WRITE_SPRITES_NAMES =
+	write_sprites
+	data_path
+	;
+
 LOCATE_TARGET = objs ; #put objects in 'objs' directory
-Objects $(GAME_NAMES:S=.cpp) ;
+Objects $(GAME_NAMES:S=.cpp) $(WRITE_SPRITES_NAMES:S=.cpp) ;
 
 LOCATE_TARGET = dist ; #put main in 'dist' directory
 MainFromObjects game : $(GAME_NAMES:S=$(SUFOBJ)) ;
+
+LOCATE_TARGET = sprites ; #put write_sprites utility in the 'sprites' directory:
+MainFromObjects write_sprites : $(WRITE_SPRITES_NAMES:S=$(SUFOBJ)) load_save_png$(SUFOBJ) ;

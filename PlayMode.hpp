@@ -5,6 +5,7 @@
 
 #include <vector>
 #include <deque>
+#include <set>
 
 struct PlayMode : Mode {
 	PlayMode();
@@ -23,11 +24,18 @@ struct PlayMode : Mode {
 		uint8_t pressed = 0;
 	} left, right, down, up;
 
-	//some weird background animation:
-	float background_fade = 0.0f;
+
+	float dead = 0.0f;
+    int score = 0;
+    int best_score = 0;
+    float time = 20.0f;
+
+    std::set<std::pair<int32_t, int32_t>> fire;
 
 	//player position:
 	glm::vec2 player_at = glm::vec2(0.0f);
+
+	std::set<std::pair<int32_t, int32_t>> trails = {{0,0}};
 
 	//----- drawing handled by PPU466 -----
 

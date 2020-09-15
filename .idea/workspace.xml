@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c92a5fe-c2e2-44e6-a6dc-c3600692e9e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SpriteCnk.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpriteCnk.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/write_sprites.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jamfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jamfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPU466.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PPU466.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PlayMode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayMode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/PlayMode.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hEVSYkbdydFN2bEoCsOWd8cWYN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c92a5fe-c2e2-44e6-a6dc-c3600692e9e2" name="Default Changelist" comment="" />
+      <created>1599576238414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599576238414</updated>
+      <workItem from="1599576239635" duration="1653000" />
+      <workItem from="1599706656085" duration="84693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-296" y="-900" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600025265616">
+      <screen x="-675" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-296" y="-900" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.741/-675.-1417.2560.1417@-675.-1417.2560.1417" timestamp="1600025265616" />
+    <state x="920" y="-956" width="586" height="548" key="find.popup" timestamp="1600144821311">
+      <screen x="-675" y="-1417" width="2560" height="1352" />
+    </state>
+    <state x="920" y="-934" width="586" height="548" key="find.popup/0.23.1280.738/-675.-1417.2560.1417@-675.-1417.2560.1417" timestamp="1599883613680" />
+    <state x="920" y="-934" width="586" height="549" key="find.popup/0.23.1280.739/-675.-1417.2560.1417@-675.-1417.2560.1417" timestamp="1599761300578" />
+    <state x="920" y="-934" width="586" height="549" key="find.popup/0.23.1280.740/-675.-1417.2560.1417@-675.-1417.2560.1417" timestamp="1599767425491" />
+    <state x="920" y="-934" width="586" height="548" key="find.popup/0.23.1280.741/-675.-1417.2560.1417@-675.-1417.2560.1417" timestamp="1600031055897" />
+    <state x="920" y="-957" width="586" height="522" key="find.popup/0.23.1280.777/-675.-1417.2560.1349@-675.-1417.2560.1349" timestamp="1599714747306" />
+    <state x="920" y="-956" width="586" height="548" key="find.popup/0.23.1280.777/-675.-1417.2560.1352@-675.-1417.2560.1352" timestamp="1600144821311" />
+    <state x="-370" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1600031837826">
+      <screen x="-675" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-370" y="-1092" width="670" height="676" key="search.everywhere.popup/0.23.1280.741/-675.-1417.2560.1417@-675.-1417.2560.1417" timestamp="1600031837826" />
+  </component>
+</project>

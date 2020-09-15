@@ -96,8 +96,8 @@ void PPU466::draw(glm::uvec2 const &drawable_size) const {
 
 	//background gets background color:
 	glClearColor(
-		background_color.r / 255.0f, 
-		background_color.g / 255.0f, 
+		background_color.r / 255.0f,
+		background_color.g / 255.0f,
 		background_color.b / 255.0f,
 		1.0f
 	);
